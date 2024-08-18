@@ -72,3 +72,23 @@ In the Analyze phase, we delve into the data to uncover insights and address the
   [SQL Query](https://github.com/kvisalpara8/Cyclistic-Bike-Share-Analysis-Project/blob/main/Cyclistic%20Bike-Share%20Capstone%20Project/sql%20query/6_number%20of%20trip%20by%20time%20zone%20and%20usertype.sql)
 
   ![image](https://github.com/user-attachments/assets/8ee70c1d-0437-4f74-8770-02d0a2504f71)
+
+5. **Share Phase**:
+
+The share phase presents the insights and findings derived from the analysis of Cyclistic Bike Share data using Microsoft Excel. The analysis revealed several key findings:
+
+- *Trips by Usertype*
+
+  In 2019, Subscribers accounted for majority of the trips, representing 90.12% of the total trips.
+
+  ![image](https://github.com/user-attachments/assets/beadc010-4567-4306-9719-2ad11e7cbfe1)
+
+- *Trips Per Month For Each Usertype*
+
+  This analysis reveals that Subscribers consistently have a higher number of rides compared to Customer riders in all months. In July, Subscribers accounted for the highest proportion of rides for that month. It seems like data for September is not available.
+  
+ ![image](https://github.com/user-attachments/assets/209c2015-9012-41b0-be4a-0cfd1acaba8a)
+
+- *Trips by Weekday For Each Usertype*
+
+  
