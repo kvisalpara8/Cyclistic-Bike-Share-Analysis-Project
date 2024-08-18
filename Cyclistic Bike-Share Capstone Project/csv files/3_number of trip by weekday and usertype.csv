@@ -1,0 +1,15 @@
+usertype,weekday,number_of_trips,row
+Subscriber,Sunday   ,215613,1
+Customer,Sunday   ,51687,2
+Subscriber,Monday   ,385311,3
+Customer,Monday   ,30205,4
+Subscriber,Tuesday  ,420208,5
+Customer,Tuesday  ,28730,6
+Subscriber,Wednesday,414062,7
+Customer,Wednesday,29025,8
+Subscriber,Thursday ,402055,9
+Customer,Thursday ,31876,10
+Subscriber,Friday   ,378500,11
+Customer,Friday   ,37259,12
+Subscriber,Saturday ,231284,13
+Customer,Saturday ,59622,14

@@ -1,0 +1,15 @@
+usertype,day_of_week,avg_ride_length_in_seconds,row
+Subscriber,Sunday   ,921.68,1
+Customer,Sunday   ,3007.71,2
+Subscriber,Monday   ,845.55,3
+Customer,Monday   ,3295.24,4
+Subscriber,Tuesday  ,843.02,5
+Customer,Tuesday  ,3140.21,6
+Subscriber,Wednesday,812.2,7
+Customer,Wednesday,2728.29,8
+Subscriber,Thursday ,830.29,9
+Customer,Thursday ,2642.01,10
+Subscriber,Friday   ,829.86,11
+Customer,Friday   ,3557.46,12
+Subscriber,Saturday ,973.1,13
+Customer,Saturday ,2560.9,14
