@@ -87,8 +87,49 @@ The share phase presents the insights and findings derived from the analysis of 
 
   This analysis reveals that Subscribers consistently have a higher number of rides compared to Customer riders in all months. In July, Subscribers accounted for the highest proportion of rides for that month. It seems like data for September is not available.
   
- ![image](https://github.com/user-attachments/assets/209c2015-9012-41b0-be4a-0cfd1acaba8a)
+   ![image](https://github.com/user-attachments/assets/209c2015-9012-41b0-be4a-0cfd1acaba8a)  
 
 - *Trips by Weekday For Each Usertype*
 
+  From this analysis, it is observed that Subscribers prefer to travel less on weekend as compared to regular working days, while Customer prefer to travel more on weekend.
+
+  ![image](https://github.com/user-attachments/assets/c2bb5c72-7cfb-42ad-b67d-64ec2560d932)
+
+- *Trips Per Hour For Each Usertype*
+
+  From this analysis, it is observed that Subscribers and Customer both prefer to travel more at 17:00 hour that is usually the leaving time of most of the company.
+
+  ![image](https://github.com/user-attachments/assets/20705798-40b4-4144-99e8-c792b5e530f2)
+
+- *Average Trip Duration by Weekday For Each Usertype*
+
+  Here unusual trend is observed. Customer travel for longer duration as compared to Subscribers, that means Subscribers prefer rides for shorter duration only.
+
+  ![image](https://github.com/user-attachments/assets/0aff7723-36cf-4b48-bc10-4a53a2b054aa)
+
+- *Trips by Time-Zone For Each Usertype*
+
+  Both Subscribers and Customer prefer to travel at afternoon and also prefer not to travel at night time.
+
+  ![image](https://github.com/user-attachments/assets/9a019de1-0d1d-4291-971f-9e98c03fdecd)
+
+
+6. **Act Phase**:
+
   
+  
+    **Key Findings**
+
+- *Monthly Variation*: Annual members consistently have a higher number of rides compared to casual riders in all months. July sees the highest proportion of Subscribers and Customer trips.
+- *Working Days vs Weekends*: Subscribers prefer to travel more on working days, while Customer prefer to travel more on weekends.
+- *Trip Duration*: Customer have longer average ride durations compared to Subscribers.
+- *Peak Usage Hours*: Both Subscribers and Customer experience peak usage at 5 p.m., with annual members having a higher number of trips.
+- *Time Zone Distribution*: Subscribers dominate Customer all the time zones, with most trips during afternoon.
+
+
+  **Strategies to convert Customer to Subscribers**
+
+- *Flexible Subscriptions Plan*: Introduce flexible subscription options, such as a summer pass or weekend-only plans, to cater to Customers who may not need a year-round subscription but would benefit from a more consistent service during specific periods.
+- *Personalised Marketing Campaigns*: Develop a loyalty program that rewards Customers for frequent usage, eventually offering them a free month of subscription if they reach a certain threshold (eg. if travel for a particular duration of time in a week or day, provide them with 1 or 2 days of free trips).
+- *Enhanced Benefits for Subscribers*: Provide Subscribers with exclusive benefits, such as priority customer service, or discounts with partner businesses (e.g., cafes or retail stores).
+- *Targeted Promotions and Discounts*: Offer Customers a discounted rate on their first month as a Subscriber. For example, a 50% off promotion for their first month could encourage them to commit to a subscription. Introduce a referral program where existing Subscribers can refer friends to sign up as Subscribers and both receive discounts or few free trips.
